@@ -1,0 +1,9 @@
+---
+layout: default
+img: jenkins.png
+category: Services
+title: Jenkins Management
+description: |
+---
+  Let us help you setup and manage your entire CI/CD pipeline using 
+  Jenkins & our large wealth of knowledge. Jenkins is used to build and test your product continuously, so developers can continuously integrate changes into the build. Jenkins is the most popular open source CI/CD tool on the market today and is used in support of DevOps, alongside other cloud native tools.

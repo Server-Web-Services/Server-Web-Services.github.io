@@ -1,0 +1,30 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://serverwebservices.github.io
+title: Server Web Services
+email: serverwebservices@gmail.com
+author: SWS LLC 
+description: > # "Write an awesome description for your new site here. 
+  Server Web Services for CI/CD & DevOps
+copyright: 'Copyright &copy; 2021 SWS LLC. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: envelope
+    url: mailto:serverwebservices@gmail.com
+  - title: github
+    url: https://github.com/Server-Web-Services

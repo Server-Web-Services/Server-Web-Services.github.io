@@ -1,0 +1,9 @@
+---
+layout: default
+img: sws.png
+category: Services
+title: What we do
+description: |
+---
+  We provide a wide range of services and support for a variety of server web technologies, with specific focus on 
+  DevOps & CI/CD services
